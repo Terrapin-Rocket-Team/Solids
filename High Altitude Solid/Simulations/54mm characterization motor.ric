@@ -1,0 +1,61 @@
+data:
+  config:
+    ambPressure: 101287.55
+    burnoutThrustThres: 0.1
+    burnoutWebThres: 2.5400050800101604e-05
+    mapDim: 750
+    maxMassFlux: 1406.4697609001405
+    maxPressure: 6895000.000000001
+    minPortThroat: 2.0
+    timestep: 0.03
+  grains:
+  - properties:
+      coreDiameter: 0.015875031750063502
+      diameter: 0.04495808991617984
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.015875031750063502
+      diameter: 0.04495808991617984
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.015875031750063502
+      diameter: 0.04495808991617984
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.015875031750063502
+      diameter: 0.04495808991617984
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  nozzle:
+    convAngle: 30.0
+    divAngle: 15.0
+    efficiency: 0.95
+    erosionCoeff: 0.0
+    exit: 0.05080010160020321
+    slagCoeff: 0.0
+    throat: 0.008255016510033021
+    throatLength: 0.0031750063500127004
+  propellant:
+    density: 1677.4018539996068
+    name: TRT Pourable
+    tabs:
+    - a: 1.876235465340088e-05
+      k: 1.201
+      m: 24.0
+      maxPressure: 10342500.000000002
+      minPressure: 0.0
+      n: 0.368
+      t: 2874.0
+type: !!python/object/apply:uilib.fileIO.fileTypes
+- 3
+version: !!python/tuple
+- 0
+- 5
+- 0
