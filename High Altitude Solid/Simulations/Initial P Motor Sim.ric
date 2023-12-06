@@ -10,19 +10,19 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.05080010160020321
+      coreDiameter: 0.043180086360172724
       diameter: 0.12941325882651766
       inhibitedEnds: Neither
       length: 0.45720091440182886
     type: BATES
   - properties:
-      coreDiameter: 0.05080010160020321
+      coreDiameter: 0.043180086360172724
       diameter: 0.12941325882651766
       inhibitedEnds: Neither
       length: 0.45720091440182886
     type: BATES
   - properties:
-      coreDiameter: 0.05080010160020321
+      coreDiameter: 0.043180086360172724
       diameter: 0.12941325882651766
       finLength: 0.012700025400050802
       finWidth: 0.006350012700025401
@@ -35,21 +35,21 @@ data:
     divAngle: 15.0
     efficiency: 0.95
     erosionCoeff: 0.0
-    exit: 0.09420619321712993
+    exit: 0.09420619761239524
     slagCoeff: 0.0
     throat: 0.036830073660147324
     throatLength: 0.007620015240030481
   propellant:
-    density: 1694.1205127424412
-    name: 'Reliant Robin '
+    density: 1677.4018539996068
+    name: TRT Pourable
     tabs:
-    - a: 8.988603722431091e-06
-      k: 1.198
-      m: 24.98
-      maxPressure: 6895000.000000001
+    - a: 1.876235465340088e-05
+      k: 1.201
+      m: 24.0
+      maxPressure: 10342500.000000002
       minPressure: 0.0
-      n: 0.412
-      t: 2977.0
+      n: 0.368
+      t: 2874.0
 type: !!python/object/apply:uilib.fileIO.fileTypes
 - 3
 version: !!python/tuple
