@@ -1,0 +1,79 @@
+data:
+  config:
+    ambPressure: 101324.99674500001
+    burnoutThrustThres: 0.1
+    burnoutWebThres: 2.5400050800101604e-05
+    mapDim: 750
+    maxMassFlux: 1406.4697609001405
+    maxPressure: 10342500.000000002
+    minPortThroat: 2.0
+    timestep: 0.03
+  grains:
+  - properties:
+      coreDiameter: 0.031750063500127004
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.15240030480060962
+    type: BATES
+  - properties:
+      coreDiameter: 0.034925069850139705
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.15240030480060962
+    type: BATES
+  - properties:
+      coreDiameter: 0.034925069850139705
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.15240030480060962
+    type: BATES
+  - properties:
+      coreDiameter: 0.034925069850139705
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.15240030480060962
+    type: BATES
+  - properties:
+      coreDiameter: 0.038100076200152405
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.15240030480060962
+    type: BATES
+  - properties:
+      coreDiameter: 0.041275082550165106
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  - properties:
+      coreDiameter: 0.041275082550165106
+      diameter: 0.08077216154432311
+      inhibitedEnds: Neither
+      length: 0.07620015240030481
+    type: BATES
+  nozzle:
+    convAngle: 30.0
+    divAngle: 15.0
+    efficiency: 0.95
+    erosionCoeff: 0.0
+    exit: 0.08191516383032767
+    slagCoeff: 0.0
+    throat: 0.02489204978409957
+    throatLength: 0.006350012700025401
+  propellant:
+    density: 1688.4738134319473
+    name: Terple Nebula  (2) (2)
+    tabs:
+    - a: 5.613240355114569e-06
+      k: 1.23
+      m: 24.93
+      maxPressure: 6895000.000000001
+      minPressure: 0.0
+      n: 0.461
+      t: 2369.0
+type: !!python/object/apply:uilib.fileIO.fileTypes
+- 3
+version: !!python/tuple
+- 0
+- 5
+- 0

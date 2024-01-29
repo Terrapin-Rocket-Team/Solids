@@ -10,13 +10,13 @@ data:
     timestep: 0.03
   grains:
   - properties:
-      coreDiameter: 0.043180086360172724
+      coreDiameter: 0.038100076200152405
       diameter: 0.12941325882651766
       inhibitedEnds: Neither
       length: 0.45720091440182886
     type: BATES
   - properties:
-      coreDiameter: 0.043180086360172724
+      coreDiameter: 0.038100076200152405
       diameter: 0.12941325882651766
       inhibitedEnds: Neither
       length: 0.45720091440182886
