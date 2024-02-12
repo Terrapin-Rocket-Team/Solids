@@ -22,12 +22,30 @@ data:
       length: 0.45720091440182886
     type: BATES
   - properties:
-      coreDiameter: 0.043180086360172724
+      coreDiameter: 0.038100076200152405
+      diameter: 0.12941325882651766
+      finLength: 0.010160020320040642
+      finWidth: 0.0038100076200152403
+      inhibitedEnds: Bottom
+      length: 0.15240030480060962
+      numFins: 8
+    type: Finocyl
+  - properties:
+      coreDiameter: 0.041275082550165106
+      diameter: 0.12941325882651766
+      finLength: 0.011430022860045722
+      finWidth: 0.005080010160020321
+      inhibitedEnds: Both
+      length: 0.15240030480060962
+      numFins: 8
+    type: Finocyl
+  - properties:
+      coreDiameter: 0.044450088900177806
       diameter: 0.12941325882651766
       finLength: 0.012700025400050802
       finWidth: 0.006350012700025401
-      inhibitedEnds: Neither
-      length: 0.45720091440182886
+      inhibitedEnds: Top
+      length: 0.15240030480060962
       numFins: 8
     type: Finocyl
   nozzle:
@@ -35,7 +53,7 @@ data:
     divAngle: 15.0
     efficiency: 0.95
     erosionCoeff: 0.0
-    exit: 0.09420619761239524
+    exit: 0.10160020320040641
     slagCoeff: 0.0
     throat: 0.036830073660147324
     throatLength: 0.007620015240030481
