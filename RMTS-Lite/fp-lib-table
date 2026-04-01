@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprint") (type "KiCad") (uri "${KIPRJMOD}/teensy/footprint") (options "") (descr ""))
+	(lib (name "ESP32 Ground Station") (type "KiCad") (uri "C:/Users/Snoopy/Documents/TRT/Avionics Personal/Spaceport/PCBs/ESP32 Ground Station") (options "") (descr ""))
+)
